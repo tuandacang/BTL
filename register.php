@@ -32,7 +32,7 @@
   	  <button type="submit" class="btn" name="reg_user">Register</button>
   	</div>
   	<p>
-  		Bạn chưa có tài khoản? <a href="login.php">Sign in</a>
+  		Bạn chưa có tài khoản? .<a href="login.php">Sign in</a>
   	</p>
   </form>
 </body>
